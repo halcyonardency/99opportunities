@@ -1,37 +1,25 @@
-cloud-to-butt
+cloud-to-hugs
 =============
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+Chrome extension that replaces occurrences of 'the cloud' with 'hugs'
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+[Direct download of crx file](https://github.com/xyntrix/cloud-to-hugs/blob/master/CloudToHugs.crx?raw=true)
 
 Note that there are forks of this extension that simply replace 'cloud' with 'butt'.
 In my personal opinion, that approach is too broad and it's less funny as a result, but it is clearly a very
-polarizing issue in the cloud-to-butt user community.  Forks are free to do whatever they like.  But officially, _this_
+polarizing issue in the cloud-to-hugs user community.  Forks are free to do whatever they like.  But officially, _this_
 extension replaces only the phrase described above. Thank you for your concern.
-
-Screenshot Gallery
-------------------
-
-http://www.flickr.com/groups/cloud-to-butt/
 
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
-
-Safari Version
---------------
-
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
-
-Firefox Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
+In Chrome, choose Window > Extensions.  Drag CloudToHugs.crx into the page that appears.
 
 
-Opera Version
----------------
+This was forked from https://github.com/panicsteve/cloud-to-butt. I replaced butt with hugs, because this it the nature of forking: I do what I want!
 
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-opera
+I think hugs are awesome. Now, your browser can be filled with hugs. Enjoy.
+
+Peace.
+
+Once you do have this installed, check out (this wikipedia entry)(http://en.wikipedia.org/wiki/Cloud_computing)
