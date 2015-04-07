@@ -6,7 +6,7 @@ Chrome extension that replaces occurrences of problem with opportunity
 Installation
 ------------
 
-In Chrome, choose Window > Extensions.  Drag 99ops.crx into the page that appears.
+In Chrome, choose Window > Extensions.  Drag [99ops.crx](https://github.com/xyntrix/99opportunities/blob/master/99ops.crx) into the page that appears.
 
 This was originally forked from https://github.com/panicsteve/cloud-to-butt
 
