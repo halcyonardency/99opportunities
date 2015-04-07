@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
-	"name": "Cloud To Hugs",
+	"name": "99 Opportunities",
 	"version": "1.0",
-	"description": "Replaces the text 'the cloud' with 'the hug'.",
+	"description": "Replaces the text 'opportunity' with 'problems'.",
 	"content_scripts": 
 	[
 		{
